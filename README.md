@@ -71,8 +71,6 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
@@ -86,7 +84,6 @@ cd Module_1
 
 ### Install
 
-Install this project with:
 _No installation is required, double click the index.html file to open it.
 
 ### Usage
@@ -98,8 +95,6 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Asiimwe Mark**
 
 - GitHub: @As1imwe-Mark
@@ -107,19 +102,12 @@ To run the project, execute the following command:
 - LinkedIn:AsiimweMark
 
 
-
-## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
-
 If you like this project like it and give me a follow.
 
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank Naan Ahmed [@naanahmed]👤 **Naan Ahmed**
 
@@ -133,6 +121,5 @@ I would like to thank Naan Ahmed [@naanahmed]👤 **Naan Ahmed**
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
