@@ -106,24 +106,6 @@ To run the project, execute the following command:
 - Twitter:@markasiimwe
 - LinkedIn:AsiimweMark
 
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[Add some Javascript to make it more responsive.]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
 
 
 ## ⭐️ Show your support <a name="support"></a>
