@@ -91,6 +91,12 @@ _No installation is required, double click the index.html file to open it.
 To run the project, execute the following command:
 -Double click the index.html file.
 
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Add some Javascript to make it more responsive.]**
+
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
